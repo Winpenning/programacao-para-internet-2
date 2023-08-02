@@ -1,0 +1,3 @@
+C:\Users\zsphS\source\repos\Winpenning\programacao-para-internet-2\Aula 1 - Node.JS\Aula 1 - Node.JS\obj\Debug\Aula 1 - Node.JS.njsproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\programacao-para-internet-2\Aula 1 - Node.JS\Aula 1 - Node.JS\obj\Debug\Aula 1 - Node.JS.njsproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\programacao-para-internet-2\Aula 1 - Node.JS\Aula 1 - Node.JS\bin\Microsoft.NodejsTools.WebRole.dll
